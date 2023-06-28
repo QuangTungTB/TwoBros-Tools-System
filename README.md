@@ -1,5 +1,2 @@
 # TwoBros-Tools-System
-
-* v1.0.0:
-  - Gộp tool Trello Watermark.
-  - Gộp tool Etsy Crawler.
+Hệ thống quản lí các tool TwoBros Company.

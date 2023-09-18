@@ -10,6 +10,7 @@ Các tool đang hoạt động:
  - Ymage Uploader.
  - Watermark image tool.
  - Public trello link
+
 *Lưu ý:
 
  - Để xác thực với trang web Wordpress Woocommerce muốn thêm sản phẩm PHẢI cài đặt plugin "JSON Basic Authentication" tại  https://github.com/WP-API/Basic-Auth

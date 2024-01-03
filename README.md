@@ -5,8 +5,8 @@ Các tool đang hoạt động:
  - Trello Watermark
  - Etsy crawler.
  - Public Trello link.
- - Creative Fabrica crawler.
- - Shirt mockup maker.
+ - Remake Creative Fabrica crawler.
+ - Remake Shirt mockup maker.
  - Ymage Uploader.
  - Watermark image tool.
  - Public trello link
